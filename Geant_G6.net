@@ -1,0 +1,121 @@
+*Vertices 45
+1 "AL"
+2 "BE"
+3 "CY"
+4 "EE"
+5 "GE"
+6 "IE"
+7 "LT"
+8 "ME"
+9 "NO"
+10 "RS"
+11 "TR"
+12 "AM"
+13 "BG"
+14 "CZ"
+15 "ES"
+16 "GR"
+17 "IL"
+18 "LU"
+19 "MK"
+20 "PL"
+21 "SE"
+22 "UK"
+23 "AT"
+24 "BY"
+25 "DE1"
+26 "DE2"
+27 "FI"
+28 "HR"
+29 "IS"
+30 "LV"
+31 "MT"
+32 "PT"
+33 "SI"
+34 "UA"
+35 "AZ"
+36 "CH"
+37 "DK"
+38 "FR1"
+39 "FR2"
+40 "HU"
+41 "IT"
+42 "MD"
+43 "NL"
+44 "RO"
+45 "SK"
+*Edges :1 "100G"
+6 22 1 c Black
+38 22 1 c Black
+43 22 1 c Black
+15 38 1 c Black
+15 39 1 c Black
+38 36 1 c Black
+39 41 1 c Black
+39 36 1 c Black
+36 41 1 c Black
+36 26 1 c Black
+43 25 1 c Black
+43 26 1 c Black
+26 14 1 c Black
+26 40 1 c Black
+26 20 1 c Black
+26 25 1 c Black
+25 37 1 c Black
+37 9 1 c Black
+37 21 1 c Black
+21 9 1 c Black
+27 21 1 c Black
+20 23 1 c Black
+23 41 1 c Black
+23 40 1 c Black
+*Edges :2 "10G" 
+29 37 1 c Blue
+37 43 1 c Blue
+43 2 1 c Blue
+2 22 1 c Blue
+22 32 1 c Blue
+32 15 1 c Blue
+22 17 1 c Blue
+43 18 1 c Blue
+18 26 1 c Blue
+26 17 1 c Blue
+26 11 1 c Blue
+11 40 1 c Blue
+26 23 1 c Blue
+23 34 1 c Blue
+23 31 1 c Blue
+23 14 1 c Blue
+14 40 1 c Blue
+23 45 1 c Blue
+45 40 1 c Blue
+23 13 1 c Blue
+13 44 1 c Blue
+44 42 1 c Blue
+44 40 1 c Blue
+23 28 1 c Blue
+28 40 1 c Blue
+23 33 1 c Blue
+33 40 1 c Blue
+40 10 1 c Blue
+41 31 1 c Blue
+41 16 1 c Blue
+16 23 1 c Blue
+25 4 1 c Blue
+4 30 1 c Blue
+30 7 1 c Blue
+7 20 1 c Blue
+20 24 1 c Blue
+*Edges :3 "1-9G"
+29 22 1 c Green
+22 3 1 c Green
+3 16 1 c Green
+3 26 1 c Green
+26 5 1 c Green
+5 40 1 c Green
+40 8 1 c Green
+26 35 1 c Green
+26 12 1 c Green
+41 1 1 c Green
+23 19 1 c Green
+19 13 1 c Green
